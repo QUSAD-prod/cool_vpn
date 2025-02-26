@@ -1,0 +1,37 @@
+name: cool_vpn
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.6 <3.0.0"
+
+dependencies:
+  cloud_firestore: ^4.8.2
+  firebase_app_check: ^0.1.2+1
+  firebase_auth: ^4.4.1
+  firebase_core: ^2.9.0
+  firebase_storage: ^11.2.4
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.5
+  flutter_switch: ^0.3.2
+  google_fonts: ^5.0.0
+  google_sign_in: ^6.1.4
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  openvpn_flutter: ^1.2.2
+  sizer: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/svg/
+    - assets/png/
+    - assets/svg/flags/

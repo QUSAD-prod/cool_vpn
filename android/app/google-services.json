@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "162245416287",
+    "firebase_url": "https://vpn-app-379416-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "vpn-app-379416",
+    "storage_bucket": "vpn-app-379416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162245416287:android:be710feae061220b6412ea",
+        "android_client_info": {
+          "package_name": "com.example.cool_vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162245416287-m9mj8g9codsv6ufvtkla345cq7fveat4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cool_vpn",
+            "certificate_hash": "d4c0416a8aabe1e4c1ea21c21feb54a56744583c"
+          }
+        },
+        {
+          "client_id": "162245416287-jks9a7681tanb26u1ol0mirpld9k7aqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwYz1JgatkAzJ-5Ud4d0Vo5wed98v7JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162245416287-jks9a7681tanb26u1ol0mirpld9k7aqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162245416287-5mu94fpmmbhd45m2hg7cfhd7c0qkdtl3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coolVpn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
